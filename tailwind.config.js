@@ -41,7 +41,7 @@ module.exports = {
       },
     },
   },
-  container: {
+  container: {  
     padding: {
       DEFAULT: '15px',
     },
